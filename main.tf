@@ -55,7 +55,7 @@ resource "azurerm_api_management" "apim" {
   location            = data.azurerm_resource_group.rg.location
   resource_group_name = data.azurerm_resource_group.rg.name
   publisher_name      = "Signature Aviation"
-  publisher_email     = "olmsu1e9@BBAAviation.net"
+  publisher_email     = "olmsu1e745@klAAviation.net"
 
   sku_name = "Developer_1"
 
